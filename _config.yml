@@ -10,7 +10,7 @@ source:           docs
 destination:      _gh_pages
 host:             0.0.0.0
 port:             9001
-url:              https://getbootstrap.com
+url:              https://imalan.github.io/bootstrap/
 baseurl:          /docs/3.4
 encoding:         UTF-8
 
