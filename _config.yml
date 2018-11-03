@@ -11,7 +11,7 @@ destination:      _gh_pages
 host:             0.0.0.0
 port:             9001
 url:              https://imalan.github.io/bootstrap/
-baseurl:          /docs/3.4
+baseurl:          /docs
 encoding:         UTF-8
 
 gems:
